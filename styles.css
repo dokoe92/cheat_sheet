@@ -8,10 +8,14 @@ h1 {
     text-align: center;
     font-weight: bold;
     font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 3px;
+    margin-bottom: 50px;
 }
 h2, h3 {
     text-align: center;
     color: rgb(35, 43, 40);
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h2 {
@@ -48,7 +52,11 @@ td span {
     font-weight: bold;
 }
 
+/* Section for Git and Github*/
 
+.git table {
+    display: inline-block;
+}
 
 
 
