@@ -54,9 +54,13 @@ td span {
 
 /* Section for Git and Github*/
 
-.git table {
+.git {
     display: inline-block;
+    position:
 }
+
+.git_hub {
+    position: relative;
 
 
 
