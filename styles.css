@@ -1,0 +1,54 @@
+
+body {
+    background-color: rgba(255, 228, 196, 0.616);
+}
+
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+h2, h3 {
+    text-align: center;
+    color: rgb(35, 43, 40);
+}
+
+h2 {
+    font-size: 25px;
+}
+
+
+hr {
+    margin: 25px 10px;
+    border: 1px solid rgb(219, 140, 140);
+    border-radius: 50%;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 40%;
+}
+
+
+
+table, td, th {
+    border: 1px solid black;
+}
+
+th {
+    background-color: rgb(108, 184, 157);
+    color: black;
+}
+
+
+td span {
+    background-color: white;
+    font-weight: bold;
+}
+
+
+
+
+
